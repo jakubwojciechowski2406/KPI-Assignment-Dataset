@@ -6,7 +6,7 @@ KPI assessment of NASDAQ stock data — coursework assignment
 
 This is the Data Card for the dataset I built for the assignment on data quality assessment. The dataset contains daily closing prices for 5 NASDAQ companies, downloaded from Yahoo Finance, and is evaluated using the four KPIs discussed in class: Completeness, Latency, Accuracy, and Consistency.
 
-The full code is in `nasdaq_data_quality.ipynb`.
+The full code is in `Jakub_Wojciechowski_49872_KPI_Assignment-Dataset_Notebook.ipynb`.
 
 ---
 
